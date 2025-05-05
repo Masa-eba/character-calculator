@@ -1,4 +1,3 @@
-/*1116210001 阿部勝寿*/
 
 import javafx.application.Application;
 import javafx.stage.Stage;
